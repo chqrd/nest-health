@@ -1,6 +1,6 @@
 # nest-health
 
-This NestjJS module adds a `/health` endpoint to your project.
+This NestJS module adds a `/health` endpoint to your project.
 
 ## Installation
 
